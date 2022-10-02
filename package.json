@@ -1,5 +1,5 @@
 {
-  "name": "easy-crud",
+  "name": "easy-crud-generate",
   "version": "1.0.0",
   "description": "easy instalation and use of mysql2 to help people to make CRUD",
   "main": "easy-crud.js",
